@@ -1,0 +1,26 @@
+
+
+[
+  {
+    "name": "iPhone 6 Plus, 4/64",
+    "img": "img/product-9.jpg",
+    "hoverImg": "img/product-8.jpg",
+    "price": 22000,
+    "old_price": 24000
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "img": "img/product-4.jpg",
+    "hoverImg": "img/product-5.jpg",
+    "price": 60000,
+    "old_price": 65000
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "img": "img/product-7.jpg",
+    "hoverImg": "img/product-5.jpg",
+    "price": 60000,
+    "old_price": 65000
+  }
+
+]
